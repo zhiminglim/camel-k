@@ -1,5 +1,18 @@
 # Changelog
 
+## [Unreleased](https://github.com/apache/camel-k/tree/HEAD)
+
+[Full Changelog](https://github.com/apache/camel-k/compare/1.8.3-nightly...HEAD)
+
+**Closed issues:**
+
+- load camel-cxf in camel-k integration [\#3550](https://github.com/apache/camel-k/issues/3550)
+- Cannot deploy an integration using configmap/secret key filtering [\#3543](https://github.com/apache/camel-k/issues/3543)
+- In a specific scenario a new integration pod is created every ~0.5 seconds [\#3522](https://github.com/apache/camel-k/issues/3522)
+- `make generate-crd` error [\#3453](https://github.com/apache/camel-k/issues/3453)
+- Update to Knative v1.5.0 [\#3381](https://github.com/apache/camel-k/issues/3381)
+- Unable to access MongoDB from kamelets binding \[DOCS bug\] [\#3228](https://github.com/apache/camel-k/issues/3228)
+
 ## [1.8.3-nightly](https://github.com/apache/camel-k/tree/1.8.3-nightly) (2022-08-16)
 
 [Full Changelog](https://github.com/apache/camel-k/compare/1.9.3-nightly...1.8.3-nightly)
